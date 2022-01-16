@@ -1,0 +1,21 @@
+If you want the pdf version of my resume you can find it [[file:pdf/Antoine_MARIE_Resume.pdf][here]].
+
+* Education
+
+** Vrije Universiteit Amsterdam, Netherlands
+*** Research internship (Mar 2022 - July 2023)
+/Strictly correlated electrons density functional theory/, under the supervision of Paola Gori-Giorgi.
+
+** University of Oxford, UK
+*** Research internship (Oct 2021 - Feb 2022)
+/Energy landscape of the MCSCF electronic structure method/, under the supervision of Hugh G. A. Burton.
+
+** Ecole normale supérieure de Lyon, France
+*** MSc in Computational Modelisation in physics and chemistry (Sep 2019 - July 2021)
+- End of second year internship (Feb 2021-July 2021): /Higher roots of the Coupled-Cluster equations/, under the supervision of Pierre-François Loos (Laboratoire de Chimie et Physique Quantique, Toulouse, France).
+- End of first year internship (May 2020-July 2020): /Perturbation theory in the complex plane/, under the supervision of Pierre-François Loos (Laboratoire de Chimie et Physique Quantique, Toulouse, France).
+*** BSc in Chemistry (Sep 2018 - July 2019)
+- End of bachelor research internship (June 2019-July 2019): /Synthesis and characterization of embryonic zeolithes,/ under the supervision of Mariame Akouche (Laboratoire de Catalyse et Spectrochimie, Caen, France).
+  
+** Lycée Victor Hugo, Caen, France 
+*** Classe préparatoire (Sep 2015 - July 2018)

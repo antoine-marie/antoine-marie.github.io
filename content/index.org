@@ -1,14 +1,16 @@
-#+title: Org Mode Example Site
+#+TITLE: Antoine MARIE
 
-* Overview
+Hello!
 
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
+#+ATTR_HTML: :style float:right; border:2px solid black;
+#+attr_html: :width 200px 
+[[file:./img/antoine.png]]
 
-Here is a link to my [[./Emacs.org][Emacs configuration]].
+I'm a student at the Ecole Normale Supérieure de Lyon. Last year, I obtained a Master degree in [[http://www.ens-lyon.fr/MasterSDM/en/master-2/m2-computational-physics-and-chemistry]["Computational physics and chemistry"]]. As a requirement to get the ENS' diploma, I'm currently spending a year as a research intern, prior to my PhD which should start during the 2022-23 academic year.
+I have a keen interest for theoretical chemistry and, in particular, electronic structure theory.
 
-* Links
+Currently, I'm working under the supervision of [[https://www.hughburton.com/][Hugh Burton]] at the Physical and Theorical Chemistry Laboratory in Oxford. This research internship will lasts 5 months during which we will be working on the [[https://arxiv.org/abs/2201.01518][Energy Landscape of Electronic Structure]]. Especially, we will be interested in the MCSCF formalism.
 
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
+My second internship will take place at Vrije Universiteit Amsterdam within [[https://www.paolagorigiorgi.org/paola-gorigiorgi/][Paola Gori-Giorgi's group]]. During this internship I will learn the Strictly Correlated Electrons formalism of Density Functional Theory.
+
+In addition, I'm really interested by Linux, Emacs, Org mode and more generally free and open softwares, although I'm still on the learning curve. You can find some resources that I found useful about some of these subjects on this [[file:bookmarks.org][page]] of my website.

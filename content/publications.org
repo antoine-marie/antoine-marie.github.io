@@ -1,0 +1,34 @@
+You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
+
+
+** Variational coupled cluster for ground and excited states ([[file:pdf/03_ESVCC.pdf][pdf]])
+*A. Marie*, F. Kossoski, and P. F. Loos.
+
+[[https://aip.scitation.org/doi/10.1063/5.0060698][J. Chem. Phys.]] (Open Access) *155*, 104105 (2021). | [[https://arxiv.org/abs/2106.11305][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 400px
+[[file:./img/ESVCC.png]]
+#+END_center
+
+** Excited states from state-specific orbital-optimized pair coupled-cluster ([[file:pdf/02_ESCC.pdf][pdf]])
+F. Kossoski, *A. Marie*, A. Scemama, M. Caffarel, and P. F. Loos.
+
+[[https://pubs.acs.org/doi/10.1021/acs.jctc.1c00348][J. Chem. Theory Comput.]] (Open Access) *17*, 4756 (2021). | [[https://arxiv.org/abs/2104.03746][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 400px
+[[file:./img/ESCC.png]]
+#+END_center
+
+** Perturbation theory in the complex plane: exceptional points and where to find them ([[file:pdf/01_EPAWTFT.pdf][pdf]])
+*A. Marie*, H. G. A. Burton, and P. F. Loos.
+
+[[https://iopscience.iop.org/article/10.1088/1361-648X/abe795][J. Phys.: Condens. Matter]] (Open Access) *33*, 283001 (2021). | [[https://arxiv.org/abs/2012.03688][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 400px
+[[file:./img/EPAWTFT.png]]
+#+END_center
+
+

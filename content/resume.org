@@ -1,9 +1,13 @@
 If you want the pdf version of my resume you can find it [[file:pdf/Antoine_MARIE_Resume.pdf][here]].
 
 * Education
+** Laboratoire de Chimie et Physique Quantique, Toulouse, France
+*** PhD (Oct 2022 - Today)
+/Correlated methods for excited states/,
+under the supervision of Pierre-François Loos.
 
 ** Vrije Universiteit Amsterdam, Netherlands
-*** Research internship (Mar 2022 - July 2023)
+*** Research internship (Mar 2022 - July 2022)
 /Strictly correlated electrons density functional theory/, under the supervision of Paola Gori-Giorgi.
 
 ** University of Oxford, UK

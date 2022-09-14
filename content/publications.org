@@ -1,5 +1,16 @@
+#+title: Publications
+
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
+** 4. Real space Mott-Anderson electron localization with long-range interactions: exact and approximate descriptions
+*A. Marie*, D. P. Kooi, J. Grossi, M. Seidl, Z. H. Musslimani, K. Giesbertz and P. Gori-Giorgi.
+
+submitted | [[https://arxiv.org/abs/2208.14546][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 800px
+[[file:./img/MBLKSSCE.png]]
+#+END_center
 
 ** 3. Variational coupled cluster for ground and excited states ([[file:pdf/03_ESVCC.pdf][pdf]])
 *A. Marie*, F. Kossoski, and P. F. Loos.

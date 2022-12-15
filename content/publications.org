@@ -2,14 +2,37 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
-** 5. Connections between many-body perturbation and coupled-cluster theories
-R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos | [[https://arxiv.org/abs/2210.07043][arXiv]]
+** 5. Connections between many-body perturbation and coupled-cluster theories ([[file:pdf/05_CCvsMBPT.pdf][pdf]])
+R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 
+Journal of Chemical Physics (Open Access) *157*, 231102 (2022). | [[https://arxiv.org/abs/2210.07043][arXiv]]
 
-** 4. Real space Mott-Anderson electron localization with long-range interactions: exact and approximate descriptions
+\begin{equation*}
+	\boldsymbol{\Sigma}^{GW} = \boldsymbol{V}^{\text{2h1p}} \cdot  \boldsymbol{T}^{\text{2h1p}} + \boldsymbol{V}^{\text{2p1h}} \cdot  \boldsymbol{T}^{\text{2p1h}}
+\end{equation*}
+\\
+\begin{equation*}
+	(\boldsymbol{V}^{\text{2h1p}} )^{T}
+		+ \boldsymbol{C}^{\text{2h1p}} \cdot \boldsymbol{T}^{\text{2h1p}} 
+		- \boldsymbol{T}^{\text{2h1p}} \cdot \boldsymbol{\epsilon}
+		- \boldsymbol{T}^{\text{2h1p}} \cdot \boldsymbol{V}^{\text{2h1p}} \cdot \boldsymbol{T}^{\text{2h1p}} 
+		- \boldsymbol{T}^{\text{2h1p}} \cdot \boldsymbol{V}^{\text{2p1h}}\cdot \boldsymbol{T}^{\text{2p1h}}
+		= \boldsymbol{0}
+\end{equation*}
+\\
+\begin{equation*}
+		(\boldsymbol{V}^{\text{2p1h}})^{T}
+		+ \boldsymbol{C}^{\text{2p1h}}\cdot \boldsymbol{T}^{\text{2p1h}}
+		- \boldsymbol{T}^{\text{2p1h}} \cdot \boldsymbol{\epsilon}
+		- \boldsymbol{T}^{\text{2p1h}} \cdot \boldsymbol{V}^{\text{2h1p}} \cdot \boldsymbol{T}^{\text{2h1p}} 
+		- \boldsymbol{T}^{\text{2p1h}} \cdot \boldsymbol{V}^{\text{2p1h}} \cdot \boldsymbol{T}^{\text{2p1h}}
+		= \boldsymbol{0}
+\end{equation*}
+
+** 4. Real space Mott-Anderson electron localization with long-range interactions: exact and approximate descriptions ([[file:pdf/04_MBLKSSCE.pdf][pdf]])
 *A. Marie*, D. P. Kooi, J. Grossi, M. Seidl, Z. H. Musslimani, K. Giesbertz and P. Gori-Giorgi.
 
-Physical Review Research (accepted) | [[https://arxiv.org/abs/2208.14546][arXiv]]
+Physical Review Research (Open Access) *4*, 043192  (2022). *Editors' suggestion* | [[https://arxiv.org/abs/2208.14546][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 800px

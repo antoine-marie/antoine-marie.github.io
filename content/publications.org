@@ -2,13 +2,13 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
-** 7. Variational coupled cluster for ground and excited states ([[file:pdf/07_SRGGW.pdf][pdf]])
+** 7. A similarity renormalization group approach to Green's function methods  ([[file:pdf/07_SRGGW.pdf][pdf]])
 *A. Marie* and P.-F. Loos.
 
 J. Chem. Theory. Comput. (submitted) | [[https://arxiv.org/abs/2303.05984][arXiv]]
 
 #+BEGIN_center
-#+attr_html: :width 400px
+#+attr_html: :width 800px
 [[file:./img/07_SRGGW.png]]
 #+END_center
 
@@ -19,7 +19,7 @@ J. Chem. Theory. Comput. (submitted) | [[https://arxiv.org/abs/2303.05984][arXiv
 J. Phys. Chem. A (submitted) | [[https://arxiv.org/abs/2301.11731][arXiv]]
 
 #+BEGIN_center
-#+attr_html: :width 400px
+#+attr_html: :width 800px
 [[file:./img/06_CASLSP.png]]
 #+END_center
 

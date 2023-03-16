@@ -2,6 +2,28 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
+** 7. Variational coupled cluster for ground and excited states ([[file:pdf/07_SRGGW.pdf][pdf]])
+*A. Marie* and P.-F. Loos.
+
+J. Chem. Theory. Comput. (submitted) | [[https://arxiv.org/abs/2303.05984][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 400px
+[[file:./img/07_SRGGW.png]]
+#+END_center
+
+
+** 6. Excited states, symmetry breaking, and unphysical solutions in state-specific CASSCF theory ([[file:pdf/06_CASLSP.pdf][pdf]])
+*A. Marie* and H. G. A. Burton.
+
+J. Phys. Chem. A (submitted) | [[https://arxiv.org/abs/2301.11731][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 400px
+[[file:./img/06_CASLSP.png]]
+#+END_center
+
+
 ** 5. Connections between many-body perturbation and coupled-cluster theories ([[file:pdf/05_CCvsMBPT.pdf][pdf]])
 R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 
@@ -36,7 +58,7 @@ R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 
 #+BEGIN_center
 #+attr_html: :width 800px
-[[file:./img/MBLKSSCE.png]]
+[[file:./img/04_MBLKSSCE.png]]
 #+END_center
 
 ** 3. Variational coupled cluster for ground and excited states ([[file:pdf/03_ESVCC.pdf][pdf]])
@@ -46,7 +68,7 @@ R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 
 #+BEGIN_center
 #+attr_html: :width 400px
-[[file:./img/ESVCC.png]]
+[[file:./img/03_ESVCC.png]]
 #+END_center
 
 ** 2. Excited states from state-specific orbital-optimized pair coupled-cluster ([[file:pdf/02_ESCC.pdf][pdf]])
@@ -56,7 +78,7 @@ F. Kossoski, *A. Marie*, A. Scemama, M. Caffarel, and P.-F. Loos.
 
 #+BEGIN_center
 #+attr_html: :width 400px
-[[file:./img/ESCC.png]]
+[[file:./img/02_ESCC.png]]
 #+END_center
 
 ** 1. Perturbation theory in the complex plane: exceptional points and where to find them ([[file:pdf/01_EPAWTFT.pdf][pdf]])
@@ -66,5 +88,5 @@ F. Kossoski, *A. Marie*, A. Scemama, M. Caffarel, and P.-F. Loos.
 
 #+BEGIN_center
 #+attr_html: :width 400px
-[[file:./img/EPAWTFT.png]]
+[[file:./img/01_EPAWTFT.png]]
 #+END_center

@@ -5,7 +5,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 ** 7. A similarity renormalization group approach to Green's function methods  ([[file:pdf/07_SRGGW.pdf][pdf]])
 *A. Marie* and P.-F. Loos.
 
-J. Chem. Theory. Comput. (submitted) | [[https://arxiv.org/abs/2303.05984][arXiv]]
+[[https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00281][J. Chem. Theory Comput.]] (Open access) *19*, 3943 (2023). | [[https://arxiv.org/abs/2303.05984][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 800px
@@ -13,10 +13,10 @@ J. Chem. Theory. Comput. (submitted) | [[https://arxiv.org/abs/2303.05984][arXiv
 #+END_center
 
 
-** 6. Excited states, symmetry breaking, and unphysical solutions in state-specific CASSCF theory ([[file:pdf/06_CASLSP.pdf][pdf]])
+** 6. Excited states, symmetry breaking, and unphysical solutions in state-specific CASSCF theory ([[file:pdf/06_SS-CASSCF.pdf][pdf]])
 *A. Marie* and H. G. A. Burton.
 
-J. Phys. Chem. A (submitted) | [[https://arxiv.org/abs/2301.11731][arXiv]]
+[[https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c00603][J. Phys. Chem. A]] *127*, 4538 (2023). [[https://pubs.acs.org/toc/jpcafh/127/20][Front cover]] | [[https://arxiv.org/abs/2301.11731][arXiv]] 
 
 #+BEGIN_center
 #+attr_html: :width 800px

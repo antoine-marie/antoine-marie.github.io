@@ -2,7 +2,7 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
-** 7. A similarity renormalization group approach to Green's function methods  ([[file:pdf/07_SRGGW.pdf][pdf]])
+** 7. A similarity renormalization group approach to Green's function methods  ([[file:manuscript/07_SRGGW.pdf][pdf]])
 *A. Marie* and P.-F. Loos.
 
 [[https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00281][J. Chem. Theory Comput.]] (Open access) *19*, 3943 (2023). | [[https://arxiv.org/abs/2303.05984][arXiv]]
@@ -13,7 +13,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 #+END_center
 
 
-** 6. Excited states, symmetry breaking, and unphysical solutions in state-specific CASSCF theory ([[file:pdf/06_SS-CASSCF.pdf][pdf]])
+** 6. Excited states, symmetry breaking, and unphysical solutions in state-specific CASSCF theory ([[file:manuscript/06_SS-CASSCF.pdf][pdf]])
 *A. Marie* and H. G. A. Burton.
 
 [[https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c00603][J. Phys. Chem. A]] *127*, 4538 (2023). [[https://pubs.acs.org/toc/jpcafh/127/20][Front cover]] | [[https://arxiv.org/abs/2301.11731][arXiv]] 
@@ -24,7 +24,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 #+END_center
 
 
-** 5. Connections between many-body perturbation and coupled-cluster theories ([[file:pdf/05_CCvsMBPT.pdf][pdf]])
+** 5. Connections between many-body perturbation and coupled-cluster theories ([[file:manuscript/05_CCvsMBPT.pdf][pdf]])
 R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 
 [[https://aip.scitation.org/doi/full/10.1063/5.0130837][Journal of Chemical Physics]] (Open Access) *157*, 231102 (2022). | [[https://arxiv.org/abs/2210.07043][arXiv]]
@@ -51,7 +51,7 @@ R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 		= \boldsymbol{0}
 \end{equation*}
 
-** 4. Real space Mott-Anderson electron localization with long-range interactions: exact and approximate descriptions ([[file:pdf/04_MBLKSSCE.pdf][pdf]])
+** 4. Real space Mott-Anderson electron localization with long-range interactions: exact and approximate descriptions ([[file:manuscript/04_MBLKSSCE.pdf][pdf]])
 *A. Marie*, D. P. Kooi, J. Grossi, M. Seidl, Z. H. Musslimani, K. Giesbertz and P. Gori-Giorgi.
 
 [[https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043192][Physical Review Research]] (Open Access) *4*, 043192  (2022). *Editors' suggestion* | [[https://arxiv.org/abs/2208.14546][arXiv]]
@@ -61,7 +61,7 @@ R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 [[file:./img/04_MBLKSSCE.png]]
 #+END_center
 
-** 3. Variational coupled cluster for ground and excited states ([[file:pdf/03_ESVCC.pdf][pdf]])
+** 3. Variational coupled cluster for ground and excited states ([[file:manuscript/03_ESVCC.pdf][pdf]])
 *A. Marie*, F. Kossoski, and P.-F. Loos.
 
 [[https://aip.scitation.org/doi/10.1063/5.0060698][J. Chem. Phys.]] (Open Access) *155*, 104105 (2021). | [[https://arxiv.org/abs/2106.11305][arXiv]]
@@ -71,7 +71,7 @@ R. Quintero-Monsebaiz, E. Monino, *A. Marie* and P.-F. Loos.
 [[file:./img/03_ESVCC.png]]
 #+END_center
 
-** 2. Excited states from state-specific orbital-optimized pair coupled-cluster ([[file:pdf/02_ESCC.pdf][pdf]])
+** 2. Excited states from state-specific orbital-optimized pair coupled-cluster ([[file:manuscript/02_ESCC.pdf][pdf]])
 F. Kossoski, *A. Marie*, A. Scemama, M. Caffarel, and P.-F. Loos.
 
 [[https://pubs.acs.org/doi/10.1021/acs.jctc.1c00348][J. Chem. Theory Comput.]] (Open Access) *17*, 4756 (2021). | [[https://arxiv.org/abs/2104.03746][arXiv]]
@@ -81,7 +81,7 @@ F. Kossoski, *A. Marie*, A. Scemama, M. Caffarel, and P.-F. Loos.
 [[file:./img/02_ESCC.png]]
 #+END_center
 
-** 1. Perturbation theory in the complex plane: exceptional points and where to find them ([[file:pdf/01_EPAWTFT.pdf][pdf]])
+** 1. Perturbation theory in the complex plane: exceptional points and where to find them ([[file:manuscript/01_EPAWTFT.pdf][pdf]])
 *A. Marie*, H. G. A. Burton, and P.-F. Loos. <<#my_anchor>>
 
 [[https://iopscience.iop.org/article/10.1088/1361-648X/abe795][J. Phys.: Condens. Matter]] (Open Access) *33*, 283001 (2021). | [[https://arxiv.org/abs/2012.03688][arXiv]]

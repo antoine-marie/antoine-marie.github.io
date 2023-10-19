@@ -1,0 +1,10 @@
+#+title: Communications
+
+* Talks
+** 1. Reference energies for valence ionizations and satellite transitions ([[file:slides/01_Satellite_JTMS.pdf][slides]])
+Journée "Théorie, Modélisation et Simulation", Strasbourg, France, October 2023
+
+* Posters
+** 1. A similarity renormalization group approach to Green's function methods ([[file:poster/01_SRGGW.pdf][poster]])
+- Workshop "Emerging excited-state methods in electronic structure", Toulouse, France, April 2023
+- Summer school "Modern Wavefunction Based Methods in Electronic Structure Theory", Pisa, Italy, September, 2023

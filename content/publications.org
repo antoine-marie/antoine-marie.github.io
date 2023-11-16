@@ -7,7 +7,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 Submitted | [[https://arxiv.org/abs/2311.05351][arXiv]]
 
 #+BEGIN_center
-#+attr_html: :width 800px
+#+attr_html: :width 300px
 [[file:./img/08_GWReview.png]]
 #+END_center
 

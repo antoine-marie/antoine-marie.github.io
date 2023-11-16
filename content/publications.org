@@ -8,7 +8,7 @@ Submitted | [[https://arxiv.org/abs/2311.05351][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 800px
-[[file:./img/08_GWReview.pdf]]
+[[file:./img/08_GWReview.png]]
 #+END_center
 
 ** 7. A similarity renormalization group approach to Green's function methods  ([[file:manuscript/07_SRGGW.pdf][pdf]])

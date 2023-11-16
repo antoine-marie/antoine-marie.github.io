@@ -2,6 +2,15 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
+** 8. The $GW$ Approximation: A Quantum Chemistry Perspective ([[file:manuscript/08_GWReview.pdf][pdf]])
+*A. Marie*, A. Ammar and P.-F. Loos.
+Submitted | [[https://arxiv.org/abs/2311.05351][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 800px
+[[file:./img/08_GWReview.pdf]]
+#+END_center
+
 ** 7. A similarity renormalization group approach to Green's function methods  ([[file:manuscript/07_SRGGW.pdf][pdf]])
 *A. Marie* and P.-F. Loos.
 

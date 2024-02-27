@@ -2,7 +2,7 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
-** 11. Cumulant Greens’s function methods for molecules TEST
+** 11. Cumulant Greens’s function methods for molecules
 P.-F. Loos, *A. Marie* and A. Ammar.
 
 Faraday Discuss. (submitted) | [[https://arxiv.org/abs/2402.16414][arXiv]]

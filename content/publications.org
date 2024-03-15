@@ -24,10 +24,10 @@ J. Chem. Theory Comput. (submitted) | [[https://arxiv.org/abs/2402.13877][arXiv]
 #+END_center
 
 
-** 9. Can $GW$ handle multireference systems?
+** 9. Can $GW$ handle multireference systems? ([[file:manuscript/09_MRGW.pdf][pdf]]/[[file:manuscript/09_MRGW_SI.pdf][si]])
 A. Ammar, *A. Marie*, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.
 
-J. Chem. Phys. (accepted) | [[https://arxiv.org/abs/2401.03745][arXiv]]
+[[https://doi-org/10.1063/5.0196561][J. Chem. Phys.]] *160*, 114101 (2024). | [[https://arxiv.org/abs/2401.03745][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 250px
@@ -38,7 +38,7 @@ J. Chem. Phys. (accepted) | [[https://arxiv.org/abs/2401.03745][arXiv]]
 ** 8. The $GW$ Approximation: A Quantum Chemistry Perspective ([[file:manuscript/08_GWReview.pdf][pdf]]/[[file:manuscript/08_GWReview_SI.pdf][si]])
 *A. Marie*, A. Ammar and P.-F. Loos.
 
-Adv. Quant. Chem. (submitted) | [[https://arxiv.org/abs/2311.05351][arXiv]]
+Adv. Quant. Chem. (in press) | [[https://arxiv.org/abs/2311.05351][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 300px

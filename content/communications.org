@@ -5,6 +5,10 @@
 Journée "Théorie, Modélisation et Simulation", Strasbourg, France, October 2023
 
 * Posters
+** 2. Anomalous propagators and the particle-particle correlation channel ([[file:poster/02_ppHedin.pdf][poster]])
+- Rencontres Théories, Modélisations et Simulations Atomistiques - RCTF, Rouen, France, June 2024
+- Faraday Discussion "Correlated electronic structure", London, United Kingdom, July 2024
+  
 ** 1. A similarity renormalization group approach to Green's function methods ([[file:poster/01_SRGGW.pdf][poster]])
 - Workshop "Emerging excited-state methods in electronic structure", Toulouse, France, April 2023
 - Summer school "Modern Wavefunction Based Methods in Electronic Structure Theory", Pisa, Italy, September, 2023

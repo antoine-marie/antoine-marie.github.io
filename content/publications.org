@@ -2,10 +2,20 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
+** 12. Reference energies for valence ionizations and satellite transitions
+*A. Marie*, P. Romaniello and P.-F. Loos.
+
+Physical Review B (submitted) | [[https://arxiv.org/abs/2406.07062][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 800px
+[[file:./img/12_t_pp.png]]
+#+END_center
+
 ** 11. Cumulant Greens’s function methods for molecules
 P.-F. Loos, *A. Marie* and A. Ammar.
 
-Faraday Discuss. (submitted) | [[https://arxiv.org/abs/2402.16414][arXiv]]
+[[https://pubs-rsc.org/en/content/articlelanding/2024/fd/d4fd00037d][Faraday Discuss.]] (in press) | [[https://arxiv.org/abs/2402.16414][arXiv]] 
 
 #+BEGIN_center
 #+attr_html: :width 600px
@@ -13,10 +23,10 @@ Faraday Discuss. (submitted) | [[https://arxiv.org/abs/2402.16414][arXiv]]
 #+END_center
 
 
-** 10. Reference energies for valence ionizations and satellite transitions
+** 10. Reference energies for valence ionizations and satellite transitions ([[file:manuscript/10_Shakeup.pdf][pdf]])
 *A. Marie* and P.-F. Loos.
 
-J. Chem. Theory Comput. (submitted) | [[https://arxiv.org/abs/2402.13877][arXiv]]
+[[https://pubs-acs.org/doi/full/10.1021/acs.jctc.4c00216][J. Chem. Theory Comput.]] (Open access) *20*, 4751 (2024) | [[https://arxiv.org/abs/2402.13877][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 700px

@@ -2,20 +2,20 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
-** 12. Reference energies for valence ionizations and satellite transitions
+** 12. Anomalous propagators and the particle-particle channel: Hedin’s equations
 *A. Marie*, P. Romaniello and P.-F. Loos.
 
 Physical Review B (submitted) | [[https://arxiv.org/abs/2406.07062][arXiv]]
 
 #+BEGIN_center
-#+attr_html: :width 800px
+#+attr_html: :width 700px
 [[file:./img/12_t_pp.png]]
 #+END_center
 
-** 11. Cumulant Greens’s function methods for molecules
+** 11. Cumulant Greens’s function methods for molecules ([[file:manuscript/11_Cumulant.pdf][pdf]]/[[file:manuscript/11_Cumulant_SI.pdf][si]])
 P.-F. Loos, *A. Marie* and A. Ammar.
 
-[[https://pubs-rsc.org/en/content/articlelanding/2024/fd/d4fd00037d][Faraday Discuss.]] (in press) | [[https://arxiv.org/abs/2402.16414][arXiv]] 
+[[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] (2024) | [[https://arxiv.org/abs/2402.16414][arXiv]] 
 
 #+BEGIN_center
 #+attr_html: :width 600px
@@ -48,7 +48,7 @@ A. Ammar, *A. Marie*, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.
 ** 8. The $GW$ Approximation: A Quantum Chemistry Perspective ([[file:manuscript/08_GWReview.pdf][pdf]]/[[file:manuscript/08_GWReview_SI.pdf][si]])
 *A. Marie*, A. Ammar and P.-F. Loos.
 
-Adv. Quant. Chem. (in press) | [[https://arxiv.org/abs/2311.05351][arXiv]]
+[[https://www.sciencedirect.com/science/article/abs/pii/S0065327624000157][Adv. Quant. Chem.]] *90*, 157 (2024) | [[https://arxiv.org/abs/2311.05351][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 300px

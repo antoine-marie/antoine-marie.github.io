@@ -2,10 +2,10 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
-** 12. Anomalous propagators and the particle-particle channel: Hedin’s equations
+** 12. Anomalous propagators and the particle-particle channel: Hedin’s equations ([[file:manuscript/12_ppHedin.pdf][pdf]]/[[file:manuscript/12_ppHedin_SI.pdf][si]])
 *A. Marie*, P. Romaniello and P.-F. Loos.
 
-Physical Review B (submitted) | [[https://arxiv.org/abs/2406.07062][arXiv]]
+[[https://journals-aps.org/prb/abstract/10.1103/PhysRevB.110.115155][Phys. Rev. B]] *110*,115155 (2024) | [[https://arxiv.org/abs/2406.07062][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 700px

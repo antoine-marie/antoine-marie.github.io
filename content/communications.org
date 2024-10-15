@@ -1,7 +1,13 @@
 #+title: Communications
 
 * Talks
-** 1. Reference energies for valence ionizations and satellite transitions ([[file:slides/01_Satellite_JTMS.pdf][slides]])
+** 3. Anomalous propagators and the particle-particle correlation channel of many-body perturbation theory ([[file:slides/03_GFworkshop_2024.pdf][slides]])
+6th Workshop on “Green’s function methods: the next generation”, Toulouse, France, October 2024
+
+** 2. Anomalous propagators and the particle-particle correlation channel of many-body perturbation theory: Hedin's equations ([[file:slides/02_Cambridge_2024.pdf][slides]])
+Lennard-Jones Center (LJC) seminar series, Cambridge, United Kingdom, 2024
+
+** 1. Reference energies for valence ionizations and satellite transitions ([[file:slides/01_JTMS_2023.pdf][slides]])
 Journée "Théorie, Modélisation et Simulation", Strasbourg, France, October 2023
 
 * Posters

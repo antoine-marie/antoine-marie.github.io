@@ -2,6 +2,16 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
+** 13. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation ([[file:manuscript/13_ppBSE.pdf][pdf]]/[[file:manuscript/13_ppBSE_SI.pdf][si]])
+*A. Marie*, P. Romaniello, X. Blase and P.-F. Loos.
+
+[[https://arxiv.org/abs/2411.13167][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 800px
+[[file:./img/13_hhBSE.png]]
+#+END_center
+
 ** 12. Anomalous propagators and the particle-particle channel: Hedin’s equations ([[file:manuscript/12_ppHedin.pdf][pdf]]/[[file:manuscript/12_ppHedin_SI.pdf][si]])
 *A. Marie*, P. Romaniello and P.-F. Loos.
 
@@ -12,7 +22,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 [[file:./img/12_t_pp.png]]
 #+END_center
 
-** 11. Cumulant Greens’s function methods for molecules ([[file:manuscript/11_Cumulant.pdf][pdf]]/[[file:manuscript/11_Cumulant_SI.pdf][si]])
+** 11. Cumulant Green’s function methods for molecules ([[file:manuscript/11_Cumulant.pdf][pdf]]/[[file:manuscript/11_Cumulant_SI.pdf][si]])
 P.-F. Loos, *A. Marie* and A. Ammar.
 
 [[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] (2024) | [[https://arxiv.org/abs/2402.16414][arXiv]] 

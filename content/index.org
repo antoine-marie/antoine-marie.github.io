@@ -8,9 +8,9 @@ Hello!
 
 I'm a third year PhD student in [[https://pfloos.github.io/WEB_LOOS/][Pierre-François Loos']] group at the Laboratoire de Chimie et Physique Quantiques in Toulouse.
 I have a keen interest for theoretical chemistry and, in particular, electronic structure theory.
-My research focus on the development of Green's function-based methods for quantum chemistry.
+My research focus on the development of Green's function-based methods for quantum chemistry (see, for example, Ref. [[file:publications.org][7 and 13]]).
 In particular, I'm really interested in post-$GW$ self-energies, so-called vertex corrections.
-In the mean time I'm also extending the [[https://lcpq.github.io/QUESTDB_website/][QUEST]] database of excitation energies to ionization potentials.
+In the mean time I'm also extending the [[https://lcpq.github.io/QUESTDB_website/][QUEST]] database of excitation energies to ionization potentials (see Ref. [[file:publications.org][10]]).
 
 Before my PhD I obtained a Master degree in [[http://www.ens-lyon.fr/MasterSDM/en/master-2/m2-computational-physics-and-chemistry]["Computational physics and chemistry"]] at the Ecole Normale Supérieure de Lyon.
 During this period, I had the opportunity to do two internships, both in the same group as my current one, during which I worked on analytic extension of perturbation theory in the complex plane in quantum chemistry (see Ref. [[file:publications.org][1]]) and on state-specific variational coupled-cluster excited-state solutions (see Ref. [[file:publications.org][3]]).

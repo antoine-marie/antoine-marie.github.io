@@ -28,7 +28,6 @@
        <li><a href='resume.html'>Resume</a></li>
        <li><a href='publications.html'>Publications</a></li>
        <li><a href='communications.html'>Communications</a></li>
-       <li><a href='bookmarks.html'>Bookmarks</a></li>
  </ul>
  "))
 

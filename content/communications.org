@@ -1,6 +1,9 @@
 #+title: Communications
 
 * Talks
+** 4. Bethe-Salpeter equation for the particle-particle propagator ([[file:slides/04_Correlation_days_2024.pdf][slides]])
+ETSF Correlation meeting, Palaiseau, France, December 2024
+
 ** 3. Anomalous propagators and the particle-particle correlation channel of many-body perturbation theory ([[file:slides/03_GFworkshop_2024.pdf][slides]])
 6th Workshop on “Green’s function methods: the next generation”, Toulouse, France, October 2024
 

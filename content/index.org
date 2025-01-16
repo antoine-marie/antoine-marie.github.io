@@ -6,11 +6,11 @@ Hello!
 #+attr_html: :width 200px 
 [[file:./img/antoine.png]]
 
-I'm a second year PhD student in the group of [[https://pfloos.github.io/WEB_LOOS/][Pierre-François Loos]] at the Laboratoire de Chimie et Physique Quantiques in Toulouse.
+I'm a third year PhD student in [[https://pfloos.github.io/WEB_LOOS/][Pierre-François Loos']] group at the Laboratoire de Chimie et Physique Quantiques in Toulouse.
 I have a keen interest for theoretical chemistry and, in particular, electronic structure theory.
 My research focus on the development of Green's function-based methods for quantum chemistry.
 In particular, I'm really interested in post-GW self energies, so-called vertex corrections.
-In addition, I also quite like state-specific excited-state wavefunction methods even if I'm not working on this right now.
+In the mean time I'm also extending the [[https://lcpq.github.io/QUESTDB_website/][QUEST]] database of excitation energies to ionization potentials.
 
 Before my PhD I obtained a Master degree in [[http://www.ens-lyon.fr/MasterSDM/en/master-2/m2-computational-physics-and-chemistry]["Computational physics and chemistry"]] at the Ecole Normale Supérieure de Lyon.
 During this period, I had the opportunity to do two internships, both in the same group as my current one, during which I worked on analytic extension of perturbation theory in the complex plane in quantum chemistry (see Ref. [[file:publications.org][1]]) and on state-specific variational coupled-cluster excited-state solutions (see Ref. [[file:publications.org][3]]).
@@ -24,4 +24,3 @@ We used this method to investigate a one-dimensional model of many-body localiza
 In addition, I'm really interested by Linux, Emacs, Rust and more generally free and open softwares, although I'm still on the
 learning curve.
 I hope that, one day, I will be able to contribute to such projects.
-You can find some resources that I find useful about some of these subjects on this [[file:bookmarks.org][page]] of my website.

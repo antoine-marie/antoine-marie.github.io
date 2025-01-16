@@ -1,6 +1,6 @@
 #+title: Resume
 
-If you want the pdf version of my resume you can find it [[file:pdf/Antoine_MARIE_Resume.pdf][here]].
+If you want the pdf version of my resume you can find it [[file:manuscript/Antoine_MARIE_Resume.pdf][here]].
 
 * Education
 ** Laboratoire de Chimie et Physique Quantique, Toulouse, France

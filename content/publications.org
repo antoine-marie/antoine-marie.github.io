@@ -25,7 +25,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 ** 11. Cumulant Green’s function methods for molecules ([[file:manuscript/11_Cumulant.pdf][pdf]]/[[file:manuscript/11_Cumulant_SI.pdf][si]])
 P.-F. Loos, *A. Marie* and A. Ammar.
 
-[[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] (2024) | [[https://arxiv.org/abs/2402.16414][arXiv]] 
+[[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] *254*,240 (2024) | [[https://arxiv.org/abs/2402.16414][arXiv]] 
 
 #+BEGIN_center
 #+attr_html: :width 600px

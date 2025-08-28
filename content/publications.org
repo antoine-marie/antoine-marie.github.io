@@ -6,7 +6,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 *A. Marie*, P. Romaniello, X. Blase and P.-F. Loos.
 
 [[https://doi.org/10.1063/5.0250155
-][J. Chem. Phys.]] 162, 134105 (2025)| [[https://arxiv.org/abs/2411.13167][arXiv]]
+][J. Chem. Phys.]] *162*, 134105 (2025)| [[https://arxiv.org/abs/2411.13167][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 800px

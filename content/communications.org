@@ -1,6 +1,12 @@
 #+title: Communications
 
 * Talks
+** 6. Single and double ionization potentials of molecular systems with the $GW$ approximation ([[file:slides/06_Seminar_ENS_Lyon_2025.pdf][slides]])
+Séminaire Laboratoire de chimie ENS de Lyon, Lyon, France, June 2025
+
+** 5. Bethe-Salpeter equation for the particle-particle propagator ([[file:slides/05_Pterosor_Workshop_2025.pdf][slides]])
+2nd workshop "Emerging excited-state methods in electronic structure", Toulouse, France, April 2025
+
 ** 4. Bethe-Salpeter equation for the particle-particle propagator ([[file:slides/04_Correlation_days_2024.pdf][slides]])
 ETSF Correlation meeting, Palaiseau, France, December 2024
 
@@ -14,6 +20,10 @@ Lennard-Jones Center (LJC) seminar series, Cambridge, United Kingdom, 2024
 Journée "Théorie, Modélisation et Simulation", Strasbourg, France, October 2023
 
 * Posters
+** 3. Particle-particle Bethe-Salpeter equation and Parquet theory ([[file:poster/03_ppBSE_parquet.pdf][poster]])
+- 13th WATOC congress, Oslo, Norway, June 2025
+- Third general meeting of the GDR NBODY, Nancy, France, June 2025
+
 ** 2. Anomalous propagators and the particle-particle correlation channel ([[file:poster/02_ppHedin.pdf][poster]])
 - Rencontres Théories, Modélisations et Simulations Atomistiques - RCTF, Rouen, France, June 2024
 - Faraday Discussion "Correlated electronic structure", London, United Kingdom, July 2024

@@ -2,6 +2,17 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
+** 14. Parquet theory for molecular systems: Formalism and static kernel parquet approximation ([[file:manuscript/14_parquet_1.pdf][pdf]]/[[file:manuscript/14_parquet_1_SI.pdf][si]])
+*A. Marie* and P.-F. Loos.
+
+Preprint | [[https://arxiv.org/abs/2509.03253][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 800px
+[[file:img/14_three_channel.pdf]]
+#+END_center
+
+
 ** 13. Anomalous propagators and the particle-particle channel: Bethe-Salpeter equation ([[file:manuscript/13_ppBSE.pdf][pdf]]/[[file:manuscript/13_ppBSE_SI.pdf][si]])
 *A. Marie*, P. Romaniello, X. Blase and P.-F. Loos.
 

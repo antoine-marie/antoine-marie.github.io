@@ -5,11 +5,11 @@ You can find a more concise list of my publications [[https://scholar.google.com
 ** 14. Parquet theory for molecular systems: Formalism and static kernel parquet approximation ([[file:manuscript/14_parquet_1.pdf][pdf]]/[[file:manuscript/14_parquet_1_SI.pdf][si]])
 *A. Marie* and P.-F. Loos.
 
-Preprint | [[https://arxiv.org/abs/2509.03253][arXiv]]
+[[https://doi.org/10.1063/5.0301331][J. Chem. Phys.]] *163*, 194115 (2025). *Editors’ pick* | [[https://arxiv.org/abs/2509.03253][arXiv]]
 
 #+BEGIN_center
-#+attr_html: :width 800px
-[[file:img/14_three_channel.pdf]]
+#+attr_html: :width 500px
+[[file:img/14_three_channel.png]]
 #+END_center
 
 
@@ -17,7 +17,7 @@ Preprint | [[https://arxiv.org/abs/2509.03253][arXiv]]
 *A. Marie*, P. Romaniello, X. Blase and P.-F. Loos.
 
 [[https://doi.org/10.1063/5.0250155
-][J. Chem. Phys.]] *162*, 134105 (2025)| [[https://arxiv.org/abs/2411.13167][arXiv]]
+][J. Chem. Phys.]] *162*, 134105 (2025). | [[https://doi.org/10.1063/5.0315355][Erratum]] | [[https://arxiv.org/abs/2411.13167][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 800px
@@ -27,7 +27,7 @@ Preprint | [[https://arxiv.org/abs/2509.03253][arXiv]]
 ** 12. Anomalous propagators and the particle-particle channel: Hedin’s equations ([[file:manuscript/12_ppHedin.pdf][pdf]]/[[file:manuscript/12_ppHedin_SI.pdf][si]])
 *A. Marie*, P. Romaniello and P.-F. Loos.
 
-[[https://journals-aps.org/prb/abstract/10.1103/PhysRevB.110.115155][Phys. Rev. B]] *110*, 115155 (2024) | [[https://arxiv.org/abs/2406.07062][arXiv]]
+[[https://journals-aps.org/prb/abstract/10.1103/PhysRevB.110.115155][Phys. Rev. B]] *110*, 115155 (2024). | [[https://arxiv.org/abs/2406.07062][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 700px
@@ -37,7 +37,7 @@ Preprint | [[https://arxiv.org/abs/2509.03253][arXiv]]
 ** 11. Cumulant Green’s function methods for molecules ([[file:manuscript/11_Cumulant.pdf][pdf]]/[[file:manuscript/11_Cumulant_SI.pdf][si]])
 P.-F. Loos, *A. Marie* and A. Ammar.
 
-[[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] *254*,240 (2024) | [[https://arxiv.org/abs/2402.16414][arXiv]] 
+[[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] *254*,240 (2024). | [[https://arxiv.org/abs/2402.16414][arXiv]] 
 
 #+BEGIN_center
 #+attr_html: :width 600px
@@ -48,7 +48,7 @@ P.-F. Loos, *A. Marie* and A. Ammar.
 ** 10. Reference energies for valence ionizations and satellite transitions ([[file:manuscript/10_Shakeup.pdf][pdf]])
 *A. Marie* and P.-F. Loos.
 
-[[https://pubs-acs.org/doi/full/10.1021/acs.jctc.4c00216][J. Chem. Theory Comput.]] (Open access) *20*, 4751 (2024) | [[https://arxiv.org/abs/2402.13877][arXiv]]
+[[https://pubs-acs.org/doi/full/10.1021/acs.jctc.4c00216][J. Chem. Theory Comput.]] (Open access) *20*, 4751 (2024). | [[https://arxiv.org/abs/2402.13877][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 700px
@@ -70,7 +70,7 @@ A. Ammar, *A. Marie*, M. Rodríguez-Mayorga, H. G. A. Burton, and P. F. Loos.
 ** 8. The $GW$ Approximation: A Quantum Chemistry Perspective ([[file:manuscript/08_GWReview.pdf][pdf]]/[[file:manuscript/08_GWReview_SI.pdf][si]])
 *A. Marie*, A. Ammar and P.-F. Loos.
 
-[[https://www.sciencedirect.com/science/article/abs/pii/S0065327624000157][Adv. Quant. Chem.]] *90*, 157 (2024) | [[https://arxiv.org/abs/2311.05351][arXiv]]
+[[https://www.sciencedirect.com/science/article/abs/pii/S0065327624000157][Adv. Quant. Chem.]] *90*, 157 (2024). | [[https://arxiv.org/abs/2311.05351][arXiv]]
 
 #+BEGIN_center
 #+attr_html: :width 300px

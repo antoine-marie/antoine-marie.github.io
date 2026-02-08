@@ -6,11 +6,15 @@ Hello!
 #+attr_html: :width 200px 
 [[file:./img/antoine.png]]
 
-I'm a third year PhD student in [[https://pfloos.github.io/WEB_LOOS/][Pierre-François Loos']] group at the Laboratoire de Chimie et Physique Quantiques in Toulouse.
-I have a keen interest for theoretical chemistry and, in particular, electronic structure theory.
-My research focus on the development of Green's function-based methods for quantum chemistry (see, for example, Ref. [[file:publications.org][7 and 13]]).
-In particular, I'm really interested in post-$GW$ self-energies, so-called vertex corrections.
-In the mean time I'm also extending the [[https://lcpq.github.io/QUESTDB_website/][QUEST]] database of excitation energies to ionization potentials (see Ref. [[file:publications.org][10]]).
+I'm a postdoctoral researcher in Dominika Zgid's group at the University of Warsaw.
+I am a theoretical chemist with a keen interest for electronic structure theory.
+In particular, I really like investigating the connection with adjacent fields such as nuclear physics, condensed matter or materials science.
+Currently, I'm working on the description of magnetic compounds with strong spin-orbit coupling using a relativistic $GW$ framework.
+
+I did my PhD in [[https://pfloos.github.io/WEB_LOOS/][Pierre-François Loos']] group at the Laboratoire de Chimie et Physique Quantiques in Toulouse.
+My research was focusing on the development of Green's function-based methods for quantum chemistry (see, for example, Ref. [[file:publications.org][7 and 13]]).
+In particular, I was very interested in post-$GW$ self-energies, so-called vertex corrections (see Ref. [[file:publications.org][14]]).
+In the mean time I was also extending the [[https://lcpq.github.io/QUESTDB_website/][QUEST]] database of excitation energies to ionization potentials (see Ref. [[file:publications.org][10]]).
 
 Before my PhD I obtained a Master degree in [[http://www.ens-lyon.fr/MasterSDM/en/master-2/m2-computational-physics-and-chemistry]["Computational physics and chemistry"]] at the Ecole Normale Supérieure de Lyon.
 During this period, I had the opportunity to do two internships, both in the same group as my current one, during which I worked on analytic extension of perturbation theory in the complex plane in quantum chemistry (see Ref. [[file:publications.org][1]]) and on state-specific variational coupled-cluster excited-state solutions (see Ref. [[file:publications.org][3]]).
@@ -20,7 +24,3 @@ During this time, I spent five months at the Physical and Theorical Chemistry La
 There, I worked under the supervision of [[https://www.hughburton.com/][Hugh Burton]] on the multiple stationary points of the CASSCF energy landscape.
 Then, I moved to Amsterdam to learn, within [[https://www.paolagorigiorgi.org/paola-gorigiorgi/][Paola Gori-Giorgi's group]], the Strictly Correlated Electrons formalism of Density Functional Theory.
 We used this method to investigate a one-dimensional model of many-body localization.
-
-In addition, I'm really interested by Linux, Emacs, Rust and more generally free and open softwares, although I'm still on the
-learning curve.
-I hope that, one day, I will be able to contribute to such projects.

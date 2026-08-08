@@ -2,6 +2,28 @@
 
 You can find a more concise list of my publications [[https://scholar.google.com/citations?user=-H7LCt0AAAAJ&hl=fr&oi=sra][here]].
 
+** 16. An algebraic-diagrammatic construction for vertex corrections to the $GW$ self-energy ([[file:manuscript/16_ADC_G3W2.pdf][pdf]]/[[file:manuscript/16_ADC_G3W2_SI.pdf][si]])
+
+*A. Marie*, J. Tölle and P.-F. Loos.
+
+[[https://doi.org/10.1021/acs.jpclett.6c01904][J. Phys. Chem. Lett.]] *17*, 8541 (2026). | [[https://arxiv.org/abs/2606.04285][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 750px
+[[file:img/16_ADC_G3W2.png]]
+#+END_center
+
+** 15. Reference energies for non-relativistic core ionization potentials ([[file:manuscript/15_Quest_coreIP.pdf][pdf]]/[[file:manuscript/15_Quest_coreIP_SI.pdf][si]])
+
+*A. Marie*, L. Burth and P.-F. Loos.
+
+[[https://doi.org/10.1021/acs.jctc.6c00713][J. Chem. Theo. Comput.]] *22*, 6609 (2026). | [[https://arxiv.org/abs/2604.05920][arXiv]]
+
+#+BEGIN_center
+#+attr_html: :width 1000px
+[[file:img/15_coreIP.png]]
+#+END_center
+
 ** 14. Parquet theory for molecular systems: Formalism and static kernel parquet approximation ([[file:manuscript/14_parquet_1.pdf][pdf]]/[[file:manuscript/14_parquet_1_SI.pdf][si]])
 *A. Marie* and P.-F. Loos.
 
@@ -37,7 +59,7 @@ You can find a more concise list of my publications [[https://scholar.google.com
 ** 11. Cumulant Green’s function methods for molecules ([[file:manuscript/11_Cumulant.pdf][pdf]]/[[file:manuscript/11_Cumulant_SI.pdf][si]])
 P.-F. Loos, *A. Marie* and A. Ammar.
 
-[[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] *254*,240 (2024). | [[https://arxiv.org/abs/2402.16414][arXiv]] 
+[[https://pubs.rsc.org/en/content/articlelanding/2024/fd/d4fd00037d/unauth][Faraday Discuss.]] *254*, 240 (2024). | [[https://arxiv.org/abs/2402.16414][arXiv]] 
 
 #+BEGIN_center
 #+attr_html: :width 600px
